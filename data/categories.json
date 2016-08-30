@@ -1,0 +1,19 @@
+[
+	{
+		"id": "utility",
+		"name": "Utility"
+	},
+	{
+		"id": "event",
+		"name": "Event"
+	},
+	{
+		"id": "animation",
+		"name": "Animation"
+	},
+	{
+		"id": "misc",
+		"name": "Miscellaneous"
+	}
+
+]

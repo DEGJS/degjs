@@ -1,0 +1,149 @@
+body {
+	font-size: 1em;
+	line-height: 1.375;
+	font-family: Arimo, Helvetica, Arial, sans-serif;
+}
+p {
+	margin: 0 0 1.5em 0;
+}
+ul, ol {
+	margin: 0 0 1.5em 0;
+}
+a {
+	color: #1782c5;
+	text-decoration: none;
+}
+a:hover {
+	color: #0F5580;
+	text-decoration: underline;
+}
+a:active {
+	color: #062437;
+}
+.intro {
+	font-size: 1.25em;
+	margin-bottom: 2.5em;
+}
+.intro :last-child {
+	margin-bottom: 0;
+}
+@media (min-width: 40em) {
+	.intro {
+		font-size: 1.375em;
+	}
+}
+h1 {
+	font-size: 2.5em;
+	margin: 0 0 1em 0;
+}
+h2 {
+	font-size: 1.75em;
+	margin: 0 0 .75em 0;
+}
+h3 {
+	font-size: 1.25em;
+	margin: 0 0 .5em 0;
+}
+body {
+	margin: 0;
+	padding: 0;
+}
+.site-header {
+	background-color: #1782c5;
+	color: #ffffff;
+	padding: 2.5em 1em;
+}
+.page-title {
+	font-size: 2.5em;
+	margin: 0;
+}
+.tagline {
+	font-size: 1.125em;
+	margin: 0;
+	font-weight: normal;
+}
+main {
+	padding: 2em 1em;
+}
+.page-width-wrap {
+	max-width: 48em;
+	margin: 0 auto;
+}
+@media (min-width: 30em) {
+	.site-header {
+		padding: 3em 1.5em;
+	}
+
+	.page-title {
+		font-size: 3em;
+	}
+
+	.tagline {
+		font-size: 1.25em;
+	}
+
+	main {
+		padding: 2em 1.5em;
+	}
+}
+@media (min-width: 40em) {
+	.site-header {
+		padding: 3em 2em;
+	}
+
+	.page-title {
+		font-size: 4em;
+	}
+
+	.tagline {
+		font-size: 1.5em;
+	}
+
+	main {
+		padding: 2em;
+	}
+}
+.category {
+	padding-top: 2em;
+	border-top: 1px dashed #bbb;
+}
+.category + .category {
+	margin-top: 2em;
+}
+.module-list {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.module {
+	list-style: none;
+	padding: 0;
+	margin: 0 0 1.5em 0;
+}
+.module__header {
+
+}
+.module__title {
+	margin-bottom: .25em;
+	display: inline-block;
+}
+.module__version {
+	font-size: .875em;
+	color: #777;
+	display: inline-block;
+}
+.module__description {
+	margin-bottom: .25em;
+}
+.module__links {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.module__link-item {
+	display: inline-block;
+}
+.module__link-item + .module__link-item {
+	padding-left: .25em;
+	border-left: 1px solid #bbb;
+}

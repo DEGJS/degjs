@@ -1,0 +1,67 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.site-header {
+	background-color: var(--color-blue);
+	color: var(--color-white);
+	padding: 2.5em 1em;
+}
+
+.page-title {
+	font-size: 2.5em;
+	margin: 0;
+}
+
+.tagline {
+	font-size: 1.125em;
+	margin: 0;
+	font-weight: normal;
+}
+
+main {
+	padding: 2em 1em;
+}
+
+.page-width-wrap {
+	max-width: 48em;
+	margin: 0 auto;
+}
+
+@media (min-width: 30em) {
+	.site-header {
+		padding: 3em 1.5em;
+	}
+
+	.page-title {
+		font-size: 3em;
+	}
+
+	.tagline {
+		font-size: 1.25em;
+	}
+
+	main {
+		padding: 2em 1.5em;
+	}
+}
+
+
+@media (min-width: 40em) {
+	.site-header {
+		padding: 3em 2em;
+	}
+
+	.page-title {
+		font-size: 4em;
+	}
+
+	.tagline {
+		font-size: 1.5em;
+	}
+
+	main {
+		padding: 2em;
+	}
+}

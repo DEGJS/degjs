@@ -1,0 +1,79 @@
+[
+	{
+		"name": "breakpoints",
+		"description": "Trigger CSS-based breakpoint events with JavaScript.",
+		"html_url": "https://github.com/DEGJS/breakpoints",
+		"homepage": "",
+		"version": "2.2.2"
+	},
+	{
+		"name": "domEvent",
+		"description": "A Promise-based event utility.",
+		"html_url": "https://github.com/DEGJS/domEvent",
+		"homepage": null,
+		"version": "1.0.2"
+	},
+	{
+		"name": "domUtils",
+		"description": "A utility library for working with the DOM.",
+		"html_url": "https://github.com/DEGJS/domUtils",
+		"homepage": "",
+		"version": "2.0.0"
+	},
+	{
+		"name": "easing",
+		"description": "Javascript animation easing functions",
+		"html_url": "https://github.com/DEGJS/easing",
+		"homepage": null,
+		"version": "1.0.1"
+	},
+	{
+		"name": "eventAggregator",
+		"description": "Publish and subscribe to events across modules.",
+		"html_url": "https://github.com/DEGJS/eventAggregator",
+		"homepage": "",
+		"version": "1.0.2"
+	},
+	{
+		"name": "fetchUtils",
+		"description": "A utility library for using the Fetch API.",
+		"html_url": "https://github.com/DEGJS/fetchUtils",
+		"homepage": "",
+		"version": "2.0.0"
+	},
+	{
+		"name": "hoverTable",
+		"description": "A plugin for highlighting table cells, columns and rows on hover.",
+		"html_url": "https://github.com/DEGJS/hoverTable",
+		"homepage": "",
+		"version": "1.0.0"
+	},
+	{
+		"name": "moduleLoader",
+		"description": "Asynchronously load modules via an HTML attribute or JavaScript.",
+		"html_url": "https://github.com/DEGJS/moduleLoader",
+		"homepage": "",
+		"version": "3.0.0"
+	},
+	{
+		"name": "numericycle",
+		"description": "An ES6 module for animating between two numbers",
+		"html_url": "https://github.com/DEGJS/numericycle",
+		"homepage": null,
+		"version": "1.0.2"
+	},
+	{
+		"name": "objectUtils",
+		"description": "A utility library for working with JavaScript objects.",
+		"html_url": "https://github.com/DEGJS/objectUtils",
+		"homepage": "",
+		"version": "2.0.0"
+	},
+	{
+		"name": "scrollTo",
+		"description": "Animated scrolling to an element or position",
+		"html_url": "https://github.com/DEGJS/scrollTo",
+		"homepage": "http://degjs.com/scrollTo",
+		"version": "1.0.0"
+	}
+]
