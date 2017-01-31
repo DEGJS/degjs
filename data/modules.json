@@ -6,10 +6,13 @@
 	{
 		"name": "fetchUtils",
 		"categoryId": "utility"
-	}
-	,
+	},
 	{
 		"name": "objectUtils",
+		"categoryId": "utility"
+	},
+	{
+		"name": "sitecoreUtils",
 		"categoryId": "utility"
 	},
 	{
@@ -22,6 +25,10 @@
 	},
 	{
 		"name": "breakpoints",
+		"categoryId": "event"
+	},
+	{
+		"name": "scrollTracker",
 		"categoryId": "event"
 	},
 	{

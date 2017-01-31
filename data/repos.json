@@ -44,8 +44,8 @@
 		"description": "A utility library for using the Fetch API.",
 		"html_url": "https://github.com/DEGJS/fetchUtils",
 		"homepage": "",
-		"version": "2.0.0",
-		"lastModified": "Tue, 16 Aug 2016 20:20:15 GMT"
+		"version": "2.1.0",
+		"lastModified": "Wed, 14 Dec 2016 16:51:47 GMT"
 	},
 	{
 		"name": "hoverTable",
@@ -84,7 +84,23 @@
 		"description": "Animated scrolling to an element or position",
 		"html_url": "https://github.com/DEGJS/scrollTo",
 		"homepage": "http://degjs.com/scrollTo",
-		"version": "1.0.0",
-		"lastModified": "Fri, 19 Aug 2016 17:12:18 GMT"
+		"version": "1.0.1",
+		"lastModified": "Sun, 18 Sep 2016 17:31:57 GMT"
+	},
+	{
+		"name": "scrollTracker",
+		"description": "Tracks DOM elements in relation to the viewport as the page is scrolled",
+		"html_url": "https://github.com/DEGJS/scrollTracker",
+		"homepage": "http://degjs.com/scrollTracker",
+		"lastModified": "Tue, 31 Jan 2017 18:04:12 GMT",
+		"version": "1.0.0"
+	},
+	{
+		"name": "sitecoreUtils",
+		"description": "A utility library for working with the Sitecore CMS.",
+		"html_url": "https://github.com/DEGJS/sitecoreUtils",
+		"homepage": null,
+		"lastModified": "Mon, 30 Jan 2017 20:19:19 GMT",
+		"version": "1.0.0"
 	}
 ]
