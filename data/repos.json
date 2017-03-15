@@ -48,14 +48,6 @@
 		"lastModified": "Wed, 14 Dec 2016 16:51:47 GMT"
 	},
 	{
-		"name": "formFieldAppender",
-		"description": "A module for adding and removing an infinite number of similar form fields to a form.",
-		"html_url": "https://github.com/DEGJS/formFieldAppender",
-		"homepage": "",
-		"lastModified": "Tue, 14 Mar 2017 16:20:04 GMT",
-		"version": "1.0.4"
-	},
-	{
 		"name": "hoverTable",
 		"description": "A plugin for highlighting table cells, columns and rows on hover.",
 		"html_url": "https://github.com/DEGJS/hoverTable",
@@ -69,7 +61,7 @@
 		"html_url": "https://github.com/DEGJS/moduleLoader",
 		"homepage": "",
 		"version": "3.0.0",
-		"lastModified": "Wed, 01 Feb 2017 16:47:31 GMT"
+		"lastModified": "Tue, 16 Aug 2016 15:24:48 GMT"
 	},
 	{
 		"name": "numericycle",
@@ -94,5 +86,21 @@
 		"homepage": "http://degjs.com/scrollTo",
 		"version": "1.0.1",
 		"lastModified": "Sun, 18 Sep 2016 17:31:57 GMT"
+	},
+	{
+		"name": "scrollTracker",
+		"description": "Tracks DOM elements in relation to the viewport as the page is scrolled",
+		"html_url": "https://github.com/DEGJS/scrollTracker",
+		"homepage": "http://degjs.com/scrollTracker",
+		"lastModified": "Tue, 31 Jan 2017 18:04:12 GMT",
+		"version": "1.0.0"
+	},
+	{
+		"name": "sitecoreUtils",
+		"description": "A utility library for working with the Sitecore CMS.",
+		"html_url": "https://github.com/DEGJS/sitecoreUtils",
+		"homepage": null,
+		"lastModified": "Mon, 30 Jan 2017 20:19:19 GMT",
+		"version": "1.0.0"
 	}
 ]
