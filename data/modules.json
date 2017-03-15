@@ -43,5 +43,9 @@
 	{
 		"name": "hoverTable",
 		"categoryId": "misc"
+	},
+	{
+		"name": "formFieldAppender",
+		"categoryId": "forms"
 	}
 ]

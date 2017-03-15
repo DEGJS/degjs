@@ -12,6 +12,10 @@
 		"name": "Animation"
 	},
 	{
+		"id": "forms",
+		"name": "Forms"
+	},
+	{
 		"id": "misc",
 		"name": "Miscellaneous"
 	}
