@@ -48,6 +48,14 @@
 		"lastModified": "Wed, 14 Dec 2016 16:51:47 GMT"
 	},
 	{
+		"name": "formFieldAppender",
+		"description": "A module for adding and removing an infinite number of similar form fields to a form.",
+		"html_url": "https://github.com/DEGJS/formFieldAppender",
+		"homepage": "",
+		"lastModified": "Tue, 14 Mar 2017 16:20:04 GMT",
+		"version": "1.0.4"
+	},
+	{
 		"name": "hoverTable",
 		"description": "A plugin for highlighting table cells, columns and rows on hover.",
 		"html_url": "https://github.com/DEGJS/hoverTable",
@@ -61,7 +69,7 @@
 		"html_url": "https://github.com/DEGJS/moduleLoader",
 		"homepage": "",
 		"version": "3.0.0",
-		"lastModified": "Tue, 16 Aug 2016 15:24:48 GMT"
+		"lastModified": "Wed, 01 Feb 2017 16:47:31 GMT"
 	},
 	{
 		"name": "numericycle",
