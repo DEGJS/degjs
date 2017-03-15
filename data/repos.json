@@ -51,7 +51,7 @@
 		"name": "formFieldAppender",
 		"description": "A module for adding and removing an infinite number of similar form fields to a form.",
 		"html_url": "https://github.com/DEGJS/formFieldAppender",
-		"homepage": "",
+		"homepage": "http://degjs.com/formFieldAppender",
 		"lastModified": "Tue, 14 Mar 2017 16:20:04 GMT",
 		"version": "1.0.4"
 	},
