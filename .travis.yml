@@ -5,10 +5,10 @@ cache:
   directories:
   - node_modules
 before_deploy:
-- npm run-script update-repos && npm run-script build
+- ACCESS_TOKEN=$ACCESS_TOKEN npm run-script update-demo
 deploy:
   provider: pages
     skip-cleanup: true
-    github-token: $GITHUB_TOKEN
+    github-token: $ACCESS_TOKEN
     keep-history: true
-    local-dir: dist
+    target-branch: master
