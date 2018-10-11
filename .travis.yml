@@ -12,3 +12,6 @@ deploy:
   github-token: $ACCESS_TOKEN
   keep-history: true
   target-branch: master
+  local-dir: dist
+  on:
+    branch: source
