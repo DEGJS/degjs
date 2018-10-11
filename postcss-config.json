@@ -1,6 +1,0 @@
-{
-    "use": ["postcss-import", "postcss-custom-properties", "postcss-nested", "autoprefixer"],
-    "input": "src/css/styles.css",
-    "output": "styles.css",
-    "local-plugins": true    
-}
