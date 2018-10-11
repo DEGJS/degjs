@@ -8,7 +8,7 @@ before_deploy:
 - ACCESS_TOKEN=$ACCESS_TOKEN npm run-script update-demo
 deploy:
   provider: pages
-    skip-cleanup: true
-    github-token: $ACCESS_TOKEN
-    keep-history: true
-    target-branch: master
+  skip-cleanup: true
+  github-token: $ACCESS_TOKEN
+  keep-history: true
+  target-branch: master
