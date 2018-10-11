@@ -6,7 +6,8 @@
     "build-css": "postcss -c postcss-config.json",
     "build-html": "node lib/indexPageBuilder",
     "build": "npm run build-css && npm run build-html",
-    "update-repos": "node lib/reposUpdater"
+    "update-repos": "node lib/reposUpdater",
+    "update-demo": "npm run-script update-repos && npm run build-css && npm run build-html"
   },
   "repository": {
     "type": "git",

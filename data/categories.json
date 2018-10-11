@@ -4,11 +4,11 @@
 		"name": "Utility"
 	},
 	{
-		"id": "event",
+		"id": "events",
 		"name": "Event"
 	},
 	{
-		"id": "animation",
+		"id": "animation-css",
 		"name": "Animation"
 	},
 	{
