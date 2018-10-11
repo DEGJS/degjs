@@ -22,7 +22,7 @@
 		"description": "The DEGJS website",
 		"html_url": "https://github.com/DEGJS/degjs.github.io",
 		"homepage": "http://degjs.com/",
-		"lastModified": "2018-10-05T17:20:18Z",
+		"lastModified": "2018-10-11T14:31:15Z",
 		"version": "",
 		"categoryId": "guide"
 	},
@@ -76,7 +76,7 @@
 		"description": "A utility library for using the Fetch API.",
 		"html_url": "https://github.com/DEGJS/fetchUtils",
 		"homepage": "http://degjs.com/fetchUtils/",
-		"lastModified": "2018-10-05T17:14:50Z",
+		"lastModified": "2018-10-10T19:45:25Z",
 		"version": "3.0.1",
 		"categoryId": "utility"
 	},
@@ -85,7 +85,7 @@
 		"description": "A module for adding and removing an infinite number of similar form fields to a form.",
 		"html_url": "https://github.com/DEGJS/formFieldAppender",
 		"homepage": "http://degjs.com/formFieldAppender",
-		"lastModified": "2018-10-05T15:27:22Z",
+		"lastModified": "2018-10-10T19:13:36Z",
 		"version": "2.0.0",
 		"categoryId": "forms"
 	},
@@ -103,7 +103,7 @@
 		"description": "A modular, promise-based form validation plugin, free of third-party dependencies and built on top of native HTML5 validation.",
 		"html_url": "https://github.com/DEGJS/formValidation",
 		"homepage": "http://degjs.com/formValidation/index.html",
-		"lastModified": "2018-10-05T16:50:38Z",
+		"lastModified": "2018-10-10T16:38:44Z",
 		"version": "3.1.0",
 		"categoryId": "forms"
 	},
@@ -184,7 +184,7 @@
 		"description": "An ES6 module for animating between two numbers",
 		"html_url": "https://github.com/DEGJS/numericycle",
 		"homepage": null,
-		"lastModified": "2018-10-05T20:36:43Z",
+		"lastModified": "2018-10-10T16:42:43Z",
 		"version": "2.0.0",
 		"categoryId": "animation-css"
 	},
@@ -238,7 +238,7 @@
 		"description": "Animated scrolling to an element or position",
 		"html_url": "https://github.com/DEGJS/scrollTo",
 		"homepage": "http://degjs.com/scrollTo",
-		"lastModified": "2018-10-05T16:52:04Z",
+		"lastModified": "2018-10-10T16:30:00Z",
 		"version": "2.0.0",
 		"categoryId": "animation-css"
 	},
@@ -292,8 +292,8 @@
 		"description": "Utility functions for working with the browser URL.",
 		"html_url": "https://github.com/DEGJS/urlUtils",
 		"homepage": "",
-		"lastModified": "2018-10-05T16:56:24Z",
-		"version": "2.0.0",
+		"lastModified": "2018-10-10T18:47:19Z",
+		"version": "3.0.0",
 		"categoryId": "utility"
 	}
 ]
